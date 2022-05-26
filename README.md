@@ -1,2 +1,2 @@
 # portfolio-resources
-A repository for 
+A repository for hosted resources on my portfolio 
